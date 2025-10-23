@@ -1,4 +1,4 @@
-# data-analytics-portfolio
+# Portfolio
 A collection of SQL, Python and powerBI analytics projects demostrating data cleaning, modelling and storytelling.
 
 # Note: This portfolio is being updated daily (started Oct 2025).
