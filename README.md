@@ -1,7 +1,7 @@
 # Portfolio
 A collection of SQL, Python and powerBI analytics projects demostrating data cleaning, modelling and storytelling.
 
-# Note: This portfolio is being updated daily (started Oct 2025).
+# Note: This portfolio is being updated daily (started on the 22nd Oct 2025).
 More Power BI and SQL projects will appear here shortly follow along for updates!
 
 ## Data & Tools
