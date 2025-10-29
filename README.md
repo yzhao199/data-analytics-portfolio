@@ -38,4 +38,6 @@ Net Sales, Units, Gross Profit, Gross Margin %, ASP, AOV, Discount Amount, YoY g
 - Prioritize European expansion and test price elasticity in North America for selected products.
 
 
-## Files
+## Page 1 – Executive Overview
+Summarises 2017–2020 performance across all regions and categories.  
+Southwest leads total sales, while Accessories deliver the strongest profit margin.  (screenshots/Executive_Overview.png)
