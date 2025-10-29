@@ -41,3 +41,9 @@ Net Sales, Units, Gross Profit, Gross Margin %, ASP, AOV, Discount Amount, YoY g
 ## Page 1 – Executive Overview
 Summarises 2017–2020 performance across all regions and categories.  
 Southwest leads total sales, while Accessories deliver the strongest profit margin.  (screenshots/Executive_Overview.png)
+
+## Page 2 – Cost & Lifecycle Analysis
+**Weighted Cost vs Price Trend:** Tracks per-unit cost and selling price to reveal margin movement over time.  
+**Top and Bottom 10 products
+**Product Lifecycle Trend:** Shows category sales evolution, identifying mature vs growth product lines.  
+Key insight – Price–cost gap narrowed in 2019, and Accessories continue steady long-term growth.(screenshots/Cost_vs_Price_and_Lifecycle.png)
