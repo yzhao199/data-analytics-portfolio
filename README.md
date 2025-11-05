@@ -61,7 +61,7 @@ Key insight – Price–cost gap narrowed in 2019, and Accessories continue stea
 This analysis explores how pricing and discounting behaviour affects profitability across product categories from 2017–2020.
 Key measures such as Average Discount %, Profit Margin %, and Actual Selling % were created using DAX to simulate real business pricing scenarios.
 
-🔹 Findings
+Findings
 
 Accessories maintained the highest profit margins despite moderate discounting, suggesting strong price resilience.
 
@@ -72,6 +72,7 @@ Clothing had the steepest average discount rate (~15%) and the lowest margin con
 Over time, discounting remained consistent, but the profit margin recovery lagged, indicating room to improve pricing discipline.
 
 Techniques used: DAX calculations (weighted averages, simulated discount column, YoY measures), Smart Narratives, multi-metric visuals (bubble, combo, stacked bar).
+(screenshots/Discount & Price Impact.png)
 
 ## Page 4 - Reseller & Regional Sales Intelligence
 This page visualises where and what products were sold globally, highlighting regional performance and profit contribution.
@@ -87,3 +88,7 @@ California, New South Wales, and England rank as the most profitable states.
 Accessories perform strongly across all regions, while Bikes dominate APAC.
 
 Techniques used: Map visualisations (country/state), matrix with conditional formatting, DAX KPIs for total sales and profit margin, and dynamic ranking for top regions.
+(screenshots/Reseller & Regional Sales Intelligence.png)
+
+## Page 5 - Trends & Forecast
+
