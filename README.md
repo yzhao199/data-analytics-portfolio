@@ -91,4 +91,8 @@ Techniques used: Map visualisations (country/state), matrix with conditional for
 (screenshots/Reseller & Regional Sales Intelligence.png)
 
 ## Page 5 - Trends & Forecast
-
+This page analyses total sales performance from 2017–2020, highlighting underlying trends and forward projections.
+The top visual shows monthly sales by country, while the lower visual models the aggregated trend using 3 month and 6 month moving averages.
+A seasonal ARIMA model extends the series by six months, providing a directional forecast with confidence intervals.
+This helps management anticipate future demand patterns and plan production or promotional cycles accordingly.
+(screenshots/Trends & Forecast.png)
